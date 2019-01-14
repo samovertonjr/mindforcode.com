@@ -4,7 +4,7 @@ date: '2019-01-10'
 thumbnail: '../../assets/blog-icons/js-logo.png'
 ---
 
-This year I have a goal of understanding how to build complex applications using the correct programming patterns. I don't have a programming pattern that I am knowingly using when I build anything. I use React in some projects at home and at work and I just follow the patterns used by the framework. This is fine but I want to explore how to build complex applications without a framework. So I need to understand how to properly use design patterns. A core concept I need to learn and understand is how objects work. Before we get into breaking down objects we have to understand what are **Primative Types** and **Reference Types**.
+This year I have a goal of understanding how to build complex applications using the correct programming patterns. I don't have a programming pattern that I am knowingly using when I build anything. I use React in some projects at home and at work and I just follow the patterns used by the framework. This is fine but I want to explore how to build complex applications with the proper use of design patterns. To dive deeper into design pattern I need to learn and understand is how JavaScript objects work. Before we get into breaking down objects we have to understand what are **Primative Types** and **Reference Types**.
 
 ## Primitives Types
 
